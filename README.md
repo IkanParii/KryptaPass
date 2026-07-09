@@ -205,7 +205,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## ✉️ Contact
 
-**Fachri Rasyiq** — [@IkanParii](https://github.com/IkanParii) — frasyiqpramana@gmail.com
+**Fachri Rasyiq** — [@IkanParii](https://github.com/IkanParii)
 
 Project Link: [https://github.com/IkanParii/KryptaPass](https://github.com/IkanParii/KryptaPass)
 
